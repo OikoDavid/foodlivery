@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'foodliveryapp',
     'oauth2_provider',
-    'social.apps.django_app.default',
+    'social_django',
     'rest_framework_social_oauth2',
     'bootstrap3'
 ]
